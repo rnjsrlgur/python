@@ -1,0 +1,17 @@
+print('Good morning!')
+print('Good morning!')
+print('Good morning!')
+print('Good morning!')
+print('Good morning!')
+
+print('Good afternoon!')
+print('Good afternoon!')
+print('Good afternoon!')
+print('Good afternoon!')
+print('Good afternoon!')
+
+print('Good night!')
+print('Good night!')
+print('Good night!')
+print('Good night!')
+print('Good night!')
